@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+      "amazon-fresh-server": {
+        "command": "/Users/alecv/.nvm/versions/node/v20.11.0/bin/node",
+        "args": [
+          "/Users/alecv/dev/newform/random/amazon-fresh-server/build/index.js"
+        ]
+      }
+    }
+  }
